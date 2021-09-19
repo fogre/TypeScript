@@ -10,7 +10,7 @@ Patientor folder contains React/TypeScript frontend and Express/TypeScript backe
 <h3>Patientor demo</h3>
 Demo can be found live here: https://patientortypesciptapp.netlify.app/
 
-Frontend running on Netlify, backend on Heroku (so it will take a while to load).
+Frontend running on Netlify, backend on Heroku (so it might take a while to load).
 
 ## Scripts
 
