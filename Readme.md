@@ -12,9 +12,9 @@ Demo can be found live here: https://patientortypesciptapp.netlify.app/
 
 Frontend running on Netlify, backend on Heroku (so it will take a while to load).
 
-### Scripts
+## Scripts
 
-## heroku
+### heroku
 Pushes the Patientor backend to heroku
 
 ### deploy
