@@ -2,7 +2,7 @@
 
 Back end for the Patientor.
 
-Demo backend running on Heroku:
+Demo backend running on Heroku: https://quiet-sierra-89481.herokuapp.com/api
 
 ## Available Scripts
 
@@ -11,6 +11,10 @@ After cloning the folder, in the project directory you can run:
 ### `npm install`
 
 Install the project dependencies.
+
+### `npm postinstall`
+
+Runs "tsc"
 
 ### `npm dev`
 
@@ -33,6 +37,4 @@ Watches changes and shows any lint errors in the console.
 
 ### `npm start`
 
-Builds the app for production to the `build` folder.<br />
-
-Your app is ready to be deployed!
+Runs the production version of the app in `build` folder.<br />

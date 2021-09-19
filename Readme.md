@@ -7,6 +7,14 @@ Learning TypeScript by doing assigments to HY [Full-Stack Open course](https://f
 Patientor folder contains front- and backend for the Patientor exercises.
 
 <h3>Patientor demo</h3>
-Demo can be found live [here.]
+Demo can be found live [here.](https://patientortypesciptapp.netlify.app/)
 
 Frontend running on Netlify, backend on Heroku (so it will take a while to load).
+
+### Scripts
+
+## heroku
+Pushes the Patientor backend to heroku
+
+### deploy
+Adds changes, commits them as "deploy" and pushes the files to Git and Heroku.

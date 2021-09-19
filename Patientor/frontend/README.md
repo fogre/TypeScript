@@ -2,7 +2,7 @@
 
 Front end for the Patientor.
 
-Demo running here:
+Demo running here: https://patientortypesciptapp.netlify.app/
 
 NOTE: A lot of the code was given with the exercises, and refactoring is needed :)
 
