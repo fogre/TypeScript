@@ -1,5 +1,5 @@
 <h1>TypeScript exercises</h1>
-Learning TypeScript by doing assigments to HY [Full-Stack Open course](https://fullstackopen.com/en/part9)
+Learning TypeScript by doing assigments to HY Full-Stack Open course: https://fullstackopen.com/en/part9
 
 * Folder 9.1 contains exercises 9.1-9.7
 * Folder react-with-types contains exercises 9.14-9.15
