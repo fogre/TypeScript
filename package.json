@@ -1,12 +1,14 @@
 {
   "author": "fogre",
-  "name": "Typescipt exercises",
+  "name": "Typescipt-exercises",
   "version": "1.0.0",
   "private": true,
   "description": "Full-stack open typescript exercises",
   "license": "MIT",
   "main": "./Patientor/backend/index.ts",
   "scripts": {
+    "deploy": "git add . && git commit -m deploy && git push && npm run heroku",
+    "heroku": "git subtree push --prefix Patientor/backend heroku master",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
