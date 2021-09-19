@@ -4,7 +4,7 @@
   "description": "Full-stack open project Patentior",
   "main": "index.ts",
   "scripts": {
-    "start": "node dist/index.js",
+    "start": "node build/src/index.js",
     "postinstall": "tsc",
     "dev-watch": "concurrently \"npm run watch\" \"npm run dev\"",
     "dev": "ts-node-dev ./src/index.ts",
