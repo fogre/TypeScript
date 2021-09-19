@@ -14,8 +14,8 @@ Frontend running on Netlify, backend on Heroku (so it will take a while to load)
 
 ## Scripts
 
-### heroku
+### npm run heroku
 Pushes the Patientor backend to heroku
 
-### deploy
+### npm run deploy
 Adds changes, commits them as "deploy" and pushes the files to Git and Heroku.
