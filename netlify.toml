@@ -1,2 +1,6 @@
 [build]
 base = "Patientor/frontend/"
+command = "npm run build"
+
+[context.production.environment]
+REACT_APP_API_ENDPOINT = "https://quiet-sierra-89481.herokuapp.com/api"

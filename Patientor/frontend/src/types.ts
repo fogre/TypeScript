@@ -70,6 +70,5 @@ export type Entry =
   | OccupationalHealthcareEntry
   | HealthCheckEntry;
 
-
 //Form types
 export type EntryFormValues = UnionOmit<Entry, 'id' | 'type'>;
